@@ -1,0 +1,31 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Aptos', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.outer-box {
+    background-color: #4472C4;
+    padding: 30px;
+    display: inline-block;
+}
+
+.inner-box {
+    background-color: #C00000;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 0 0 15px 0;
+    font-family: 'Aptos', sans-serif;
+}
+
+p {
+    margin: 0;
+}
